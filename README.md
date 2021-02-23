@@ -6,3 +6,4 @@ One of the most improtant thing I used is data augmentation. And this is really 
 I have read the paper about U-net(https://link.springer.com/chapter/10.1007/978-3-319-24574-4_28). They said that elastic scaling is a good way. So I tried it. I also tried rotation.
 ### Learning rate decay
 If we use const learning rate decay, it is not a good way.
+![learning rate decay](https://img2018.cnblogs.com/blog/1351564/201906/1351564-20190628111619212-48470440.png "learning rate")
