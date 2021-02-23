@@ -3,4 +3,4 @@ This is what I learned from my summer session. The project is based on U-net. It
 ## Technique I uesd
 ### Data augmentation
 One of the most improtant thing I used is data augmentation. And this is really useful.
-I have read the paper about U-net
+I have read the paper about U-net(https://link.springer.com/chapter/10.1007/978-3-319-24574-4_28)
