@@ -8,4 +8,4 @@ I have read the paper about U-net(https://link.springer.com/chapter/10.1007/978-
 If we use const learning rate decay, it is not a good way.
 ![learning rate decay](https://img2018.cnblogs.com/blog/1351564/201906/1351564-20190628111619212-48470440.png "learning rate")
 So I used expotentional decrease for my model.
-\frac{a}{b} 
+$x+y=z$
