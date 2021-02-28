@@ -9,4 +9,6 @@ If we use const learning rate decay, it is not a good way.
 ![learning rate decay](https://img2018.cnblogs.com/blog/1351564/201906/1351564-20190628111619212-48470440.png "learning rate")
 
 So I used expotentional decrease for my model.
-
+It is helpful for train speed and results.
+### Optimiser I used
+For U-net, there are many optimisers. Optimiser is used to define gradient descent of our model. So it is really important. I tried 'Adam' and 'SGD'. I found 'Adam' is better.
